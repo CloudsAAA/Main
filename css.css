@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+div a {
+    text-decoration: none;
+}
+
+.container{
+   letter-spacing: 2px;
+    padding: 25px;
+}
+
+h1 {
+    padding: 30px;
+}
+div button a {
+    font-weight: 900;
+    color: black;
+}
+
+div button {
+    height: 60px;
+    width: 110px;
+    border: none;
+    border-radius: 10px;
+}
+
+div button:hover {
+    background-color: rgb(30, 0, 255);
+   
+}
+
+div button a:hover {
+    color: white;
+}
